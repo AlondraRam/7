@@ -4,12 +4,16 @@
 body {
     background-color: tan;
   }
+p.sansserif {
+    font-family: Arial, Helvetica, sans-serif;
+}
 </style>
 <title>AlondraR</title>
 </head>
 <body>
 
-<p> this is my stuff </p>
+<p class="sansserif"> this is my stuff </p>
 
 </body>
 </head>
+</html>
