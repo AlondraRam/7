@@ -7,14 +7,15 @@ body {
 p.a{
     font-family: Tahoma, Geneva, sans-serif;
 }
-h.aa{
+h2.aa{
     font-family: Tahoma, Geneva, sans-serif;
     }
 </style>
 <title>AlondraR</title>
 </head>
 <body>
-<h class="aa">This is a good title</h>
+<h1>This is a good title</h1>
+<h2 class="aa"> this is the title with the aa class</h2>
 <p class="a"> and this is the paragraph font  </p>
 
 </body>
