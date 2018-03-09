@@ -3,9 +3,15 @@
 body{ 
 background-color: tan; 
 } 
-p.a{ font-family: Tahoma, Geneva, sans-serif; } 
+p.a{ 
+   font-family: Tahoma, Geneva, sans-serif;
+   } 
 h2.aa{ 
 font-family: poppins, Geneva, sans-serif; 
 } 
+h1{
+     font-family: Tahoma, Geneva, sans-serif;
+     color: blue;
+  }
 </style>
 </head>
