@@ -1,5 +1,4 @@
 <html>
-<title>AlondraR</title>
 </head>
 <body>
 <h1 align= "left">Esketit &copy</h1>
