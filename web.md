@@ -1,16 +1,4 @@
 <html>
-<head>
-<style>
-body {
-    background-color: tan;
-  }
-p.a{
-    font-family: Tahoma, Geneva, sans-serif;
-}
-h2.aa{
-    font-family: poppins, Geneva, sans-serif;
-    }
-</style>
 <title>AlondraR</title>
 </head>
 <body>
